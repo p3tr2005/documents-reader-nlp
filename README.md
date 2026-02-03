@@ -2,8 +2,10 @@
 
 **Proyek Akhir Semester - Mata Kuliah Pemrosesan Bahasa Alami**
 
-[cite_start]Aplikasi Chatbot berbasis **Retrieval-Augmented Generation (RAG)** yang dirancang untuk memenuhi syarat Proyek Akhir Semester mata kuliah NLP. Aplikasi ini memungkinkan pengguna mengunggah dokumen PDF dan melakukan tanya-jawab cerdas berdasarkan konteks dokumen tersebut.
+Aplikasi Chatbot berbasis **Retrieval-Augmented Generation (RAG)** yang dirancang untuk memenuhi syarat Proyek Akhir Semester mata kuliah NLP. Aplikasi ini memungkinkan pengguna mengunggah dokumen PDF dan melakukan tanya-jawab cerdas berdasarkan konteks dokumen tersebut.
 
+<img width="1587" height="938" alt="20260203_23h03m37s_grim" src="https://github.com/user-attachments/assets/5197ea02-68cc-4cdb-a0af-3a7ac1d61751" />
+<img width="1587" height="943" alt="20260203_23h04m19s_grim" src="https://github.com/user-attachments/assets/3e6c70b0-5e57-426c-895a-75c7ee8fdb41" />
 ---
 
 ## 🚀 Fitur Utama
